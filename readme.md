@@ -2,7 +2,7 @@
 
 # Saan Kim
 
-**👋 Welcome to your new Foam Knowledge Base!**
+**👋 Welcome to Saan's new Foam Knowledge Base!**
 
 ## Getting started
 
